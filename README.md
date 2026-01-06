@@ -1,6 +1,3 @@
-# CRUX
-Region-First Knowledge Graph Reasoing for Medical Question Answering
-
 # CRUX: Region-First Knowledge Graph Reasoning for Medical Question Answering
 
 This repository accompanies the paper:
@@ -48,12 +45,3 @@ Detailed experimental results are reported in the paper.
 
 ## 📌 Citation
 
-If you find this work useful, please cite our paper:
-
-```bibtex
-@article{crux2025,
-  title     = {CRUX: Region-First Knowledge Graph Reasoning for Medical Question Answering},
-  author    = {Anonymous},
-  journal   = {Under review},
-  year      = {2025}
-}
